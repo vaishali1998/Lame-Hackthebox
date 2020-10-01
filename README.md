@@ -522,6 +522,7 @@ root@kali:~#
 
 ### Exploitation
 
+#### Public Exploit
 ***samba 3.0.20 can be exploit using Samba "username map script" Command Execution metasploit 
 
 ![Lame%20437aa5f4e51f4860b144acdf7ad8e38a/Untitled%201.png](Lame%20437aa5f4e51f4860b144acdf7ad8e38a/Untitled%201.png)
